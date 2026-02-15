@@ -1,0 +1,20 @@
+# Xcode
+.DS_Store
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata/
+*.xcodeproj/
+
+debug/
+release/
+
+# iOS 
+*.app
+*.ipa
+*.dSYM
+*.hmap
+
+# CocoaPods
+Pods/
+Podfile.lock
+!
